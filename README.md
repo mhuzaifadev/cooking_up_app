@@ -1,16 +1,6 @@
-# mealsapp
+# Recipe Book App
 
-A Meal App based on dart 2.8 and Flutter 1.11.13
+## Cooking Up
 
-## Getting Started
+This is a Native application built on Flutter 1.12.13 with Dart 2.8, applicable to being install in Android & iOS mobile phones & tablets, and even though desktops. This is a recipe book application, one can filter out meals according to his/her considerations and browse different meals he / she wanted to cook.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
